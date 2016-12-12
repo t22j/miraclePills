@@ -19,27 +19,38 @@ class ViewController: UIViewController, UIPickerViewDataSource, UIPickerViewDele
         super.viewDidLoad()
         statePicker.dataSource = self
         statePicker.delegate = self
+        
+        self.view.backgroundColor = UIColor.white
+        
     }
-
+    
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
-
-    @IBAction func stateBtnPressed(_ sender: Any) {
+    
+    @IBAction func stateBtnPressed(_ sender: AnyObject) {
+        statePicker.isHidden = false
     }
-
+    
     func numberOfComponents(in pickerView: UIPickerView) -> Int {
         return 1
-        
     }
     
     func pickerView(_ pickerView: UIPickerView, numberOfRowsInComponent component: Int) -> Int {
         return states.count
     }
     
-    func pickerview(_ pickerview: UIPickerView, titleForRow row: Int, forComponent component: Int) -> String? {
+    func pickerView(_ pickerView: UIPickerView, titleForRow row: Int, forComponent component: Int) -> String? {
         return states[row]
     }
+    
+    func pickerView(_ pickerView: UIPickerView, didSelectRow row: Int, inComponent component: Int) {
+        statePickerBtn.setTitle(states[row], for: UIControlState()) //UIControlState.normal
+        statePicker.isHidden = true
+    }
+    
 }
+
+
 
