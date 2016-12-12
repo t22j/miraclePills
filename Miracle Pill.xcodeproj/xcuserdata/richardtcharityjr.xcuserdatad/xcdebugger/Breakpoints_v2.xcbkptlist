@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Miracle Pill/ViewController.swift"
+            timestampString = "503204789.241774"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Miracle Pill/ViewController.swift"
+            timestampString = "503205443.350813"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Miracle_Pill.ViewController.states.getter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "Miracle Pill"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/richardtcharityjr/Desktop/core-ios/Miracle%20Pills/Miracle%20Pill/Miracle%20Pill/ViewController.swift"
+                  timestampString = "503209181.841845"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Miracle_Pill.ViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Miracle_Pill.ViewController"
+                  moduleName = "Miracle Pill"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/richardtcharityjr/Desktop/core-ios/Miracle%20Pills/Miracle%20Pill/Miracle%20Pill/ViewController.swift"
+                  timestampString = "503209181.843684"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "192">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Miracle_Pill.ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Miracle_Pill.ViewController&gt;"
+                  moduleName = "Miracle Pill"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/richardtcharityjr/Desktop/core-ios/Miracle%20Pills/Miracle%20Pill/Miracle%20Pill/ViewController.swift"
+                  timestampString = "503209181.84546"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "132">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

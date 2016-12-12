@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					72DFA3B41DFD9B2300CDA2DB = {
 						CreatedOnToolsVersion = 8.1;
+						DevelopmentTeam = 83PT98U6TN;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -258,6 +259,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 83PT98U6TN;
 				INFOPLIST_FILE = "Miracle Pill/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.richardtcharityjr.Miracle-Pill";
@@ -270,6 +272,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 83PT98U6TN;
 				INFOPLIST_FILE = "Miracle Pill/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.richardtcharityjr.Miracle-Pill";
